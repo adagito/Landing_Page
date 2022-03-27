@@ -1,0 +1,18 @@
+.header{
+    background-color: #1F2937;
+    
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+a{
+    color: #E5E7EB;
+    text-decoration: none;
+}
